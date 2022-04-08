@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Guess My Number App</string>
+    <string name="ques">Question</string>
+    <string name="reset">Reset</string>
+    <string name="success">Success</string>
+    <string name="target_num">Your number is %d</string>
+
+    <!--Questions    -->
+    <string name="first_que">Is your Number 5?</string>
+    <string name="sec_que">Is your Number 3?</string>
+    <string name="thr_que">Is your Number 2?</string>
+    <string name="four_que">Is your Number 1?</string>
+    <string name="fif_que">Is your Number 4?</string>
+    <string name="six_que">Is your Number 7?</string>
+    <string name="sev_que">Is your Number 6?</string>
+    <string name="eig_que">Is your Number 9?</string>
+    <string name="nin_que">Is your Number 8?</string>
+    <string name="ten_que">Is your Number 10?</string>
+
+    <dimen name="txt_size">25sp</dimen>
+    <dimen name="tv_margin">25dp</dimen>
+    <dimen name="btn_margin">8dp</dimen>
+</resources>
